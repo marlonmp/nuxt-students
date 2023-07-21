@@ -1,22 +1,13 @@
+# Nuxt students
 
-## Development Server
+This is a simple students CRUD to lear about nuxt 3.
 
-Start the development server on `http://localhost:3000`:
+The principal objective with this project was learn nuxt 3, and take conclutions about te framework.
 
-```bash
-pnpm run dev
-```
+## Run it
 
-## Production
+After run the command bellow, go to [localhost:3000](http://localhost:3000)
 
-Build the application for production:
-
-```bash
-pnpm run build
-```
-
-Locally preview production build:
-
-```bash
-pnpm run preview
+```sh
+docker compose up
 ```
